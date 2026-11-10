@@ -1,0 +1,7 @@
+# Every path has an owner who reviews changes to it.
+# The last pattern that matches a file wins.
+
+*                    @spiraltrain/catalogue-team
+/app/courses.json    @spiraltrain/course-planning
+/metrics/            @spiraltrain/catalogue-team @spiraltrain/operations
+/build.py            @spiraltrain/operations

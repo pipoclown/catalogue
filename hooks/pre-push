@@ -1,0 +1,5 @@
+#!/bin/sh
+# Runs the pipeline before every push; a red pipeline stops the push.
+# Install: copy this file to .git/hooks/pre-push
+echo "pre-push: running the pipeline before the push"
+python pipeline.py

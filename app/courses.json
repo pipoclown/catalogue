@@ -1,0 +1,9 @@
+[
+  {"code": "DEV100", "title": "DevOps Fundamentals", "days": 2, "category": "devops"},
+  {"code": "DEV200", "title": "Ansible Configuration Management", "days": 3, "category": "devops"},
+  {"code": "DEV300", "title": "Puppet Configuration Management", "days": 3, "category": "devops"},
+  {"code": "DEV400", "title": "Chef Configuration Management", "days": 3, "category": "devops"},
+  {"code": "DEV500", "title": "Kubernetes Orchestration", "days": 3, "category": "containers"},
+  {"code": "JSN200", "title": "JSON Schema", "days": 2, "category": "data"},
+  {"code": "TLG550", "title": "OpenShift Container Deployment", "days": 4, "category": "containers"}
+]

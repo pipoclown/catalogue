@@ -1,0 +1,16 @@
+# Python leaves these behind
+__pycache__/
+*.pyc
+.venv/
+
+# Built, never committed: build.py makes them again
+dist/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Settings for one machine only
+.env

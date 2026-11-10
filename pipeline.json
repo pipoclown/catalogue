@@ -1,0 +1,7 @@
+{
+  "stages": [
+    {"name": "lint",  "run": "python lint.py"},
+    {"name": "build", "run": "python build.py"},
+    {"name": "smoke", "run": "python smoke.py"}
+  ]
+}

@@ -1,0 +1,7 @@
+# Store text files with LF line endings in the repository, on every machine,
+# so a commit from Windows does not rewrite every line it touches.
+* text=auto eol=lf
+
+# Windows scripts keep the line endings Windows expects.
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
